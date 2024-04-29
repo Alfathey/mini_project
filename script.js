@@ -10,7 +10,7 @@ const fetchBukuData = () => {
 
             tokoInfoDiv.innerHTML = `
                 <h2>${namaToko}</h2>
-                <p>Oleh: ${pengarang}</p>
+                <p>Pengarang: ${pengarang}</p>
                 <p>Alamat: ${alamat}</p>
             `;
 
